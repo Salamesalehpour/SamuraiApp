@@ -15,6 +15,7 @@ namespace ConsoleApp
 
             AddSamurai("Salam");
             AddSamurai("Barin");
+            AddSamurai("Zenver");
 
             GetSamurais("After Add...");
 
